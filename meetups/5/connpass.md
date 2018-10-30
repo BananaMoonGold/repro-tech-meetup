@@ -1,7 +1,7 @@
 ![](/meetups/4/images/banner.png)
 
-- title: Repro Tech Meetup #4 AI実戦投入
-- 日程: 2018-11-13(Tue) 19:30-22:30
+- title: Repro Tech Meetup #5 Kotlin最前線
+- 日程: 2018-11-20(Tue) 19:30-22:30
 - 登壇時間: Presentation 15-17min + QA 3-5min
 - 参加者枠: 30~50 FCFS
 - LT枠: 0
@@ -25,8 +25,8 @@ Repro Tech Meetupは、スタートアップにおける技術領域での失敗
 
 # テーマ: Kotlin
 
-JetBrainsが開発するモダン言語Kotlin、Kotlin1.3のリリースを控えますます注目度がます中、
-Androidの開発だけでなくサーバーサイドでも使われ始めています。
+JetBrainsが開発するモダン言語Kotlin、Kotlin1.3のリリースされますます注目度が増しています。
+また、Androidの開発だけでなくサーバーサイドでも使われ始め幅広く活用できる言語として期待しているエンジニアも増えているのではないでしょうか。
 今回は柔軟性と堅牢性を兼ね備えたKotlintをテーマにノウハウ共有をしていきます！
 
 - Kotlin 1.3で何が変わるの？
