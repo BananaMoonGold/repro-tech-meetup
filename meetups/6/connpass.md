@@ -1,7 +1,7 @@
 ![](/meetups/4/images/banner.png)
 
-- title: Repro Tech Meetup #5 Kotlin最前線
-- 日程: 2018-11-20(Tue) 19:30-22:30
+- title: Repro Tech Meetup #6 Kotlin
+- 日程: 2018-12-14(Fri) 19:30-22:30
 - 登壇時間: Presentation 15-17min + QA 3-5min
 - 参加者枠: 30~50 FCFS
 - LT枠: 0
@@ -19,20 +19,23 @@ Repro Tech Meetupは、スタートアップにおける技術領域での失敗
 
 ### 前回の雰囲気
 
+- [Repro Tech Meetup #5 Frontend Reliability]()
+- [Repro Tech Meetup #4 AI実戦投入](https://togetter.com/li/1285717)
 - [Repro Tech Meetup #3 CRE](https://togetter.com/li/1272696)
 - [Repro Tech Meetup #2 Android](https://togetter.com/li/1261085)
 - [Repro Tech Meetup #1 Docker](https://togetter.com/li/1251270)
 
 # テーマ: Kotlin
 
-JetBrainsが開発するモダン言語Kotlin、Kotlin1.3のリリースされますます注目度が増しています。
-また、Androidの開発だけでなくサーバーサイドでも使われ始め幅広く活用できる言語として期待しているエンジニアも増えているのではないでしょうか。
-今回は柔軟性と堅牢性を兼ね備えたKotlintをテーマにノウハウ共有をしていきます！
+今回のは10月末にリリースされたKotlin 1.3についてキャッチアップするためのミートアップです。
+Kotlinは約150万のユーザーの利用されており、この数字はなんと昨年の2倍以上！
+前例がないほどの速度で成長していくKotlinはなぜ素晴らしいのか？
+Kotlin1.3ではどのようなことが改善されたのか詳しく見ていきましょう！
 
 - Kotlin 1.3で何が変わるの？
-
-
-今回のmeetupでは、そんなAIの実戦投入に関わる苦悩や工夫を共有し、実践的なAI利用についての知見を深めていきましょう！
+- コルーチンを活用
+- Kotlin/Nativeがベータに
+- Ktor1.0がベータに
 
 # 登壇者
 
@@ -87,3 +90,4 @@ JR代々木駅北口改札を出て目の前のビルです。
 - 技術の共有が目的の勉強会です
 - 参加目的が不適切だと判断される場合には、運営側で参加をキャンセルさせていただく場合がございます
 - イベントの様子を撮影・録画し、ブログやSNSなどで公開することがあります。その際、来場者の姿も公開されることがあることをご了承ください
+
